@@ -1,4 +1,4 @@
-# Taiara Regis - 16/10/2022
+# Taiiara - 16/10/2022
 # Programa que lê um número X de listas e mostra quantas listas tinham somente números Y
 # e quantas listas tinham somente números Z
 
